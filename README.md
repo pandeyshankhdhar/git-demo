@@ -1,3 +1,3 @@
 this is my first git repository
 <br>
-author- sd
+author- sd pandey
